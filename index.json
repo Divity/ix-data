@@ -1,0 +1,82 @@
+{
+    "items": [
+        {
+            "id": "cp_asylum_sh",
+            "type": "map",
+            "name": "Asylum",
+            "author": "k",
+            "version": "1",
+            "description": "Verruckt remastered for Infinite Warfare zombies.",
+            "files": [
+                {
+                    "name": "cp_asylum_sh.arena",
+                    "size": 180,
+                    "hash": "A246084E",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r1/a1.bin"
+                    ]
+                },
+                {
+                    "name": "cp_asylum_sh.ff",
+                    "size": 640057512,
+                    "hash": "6925B94B",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r1/a2.bin"
+                    ]
+                },
+                {
+                    "name": "cp_asylum_sh_load.ff",
+                    "size": 5438520,
+                    "hash": "E137CA48",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r1/a3.bin"
+                    ]
+                },
+                {
+                    "name": "eng_cp_asylum_sh.ff",
+                    "size": 240388,
+                    "hash": "00E8167E",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r1/a4.bin"
+                    ]
+                }
+            ],
+            "image": "https://github.com/Divity/ix-data/releases/download/r1/p1.png"
+        },
+        {
+            "id": "treyarch_weapons",
+            "type": "mod",
+            "name": "Treyarch Weapons",
+            "author": "k",
+            "version": "1",
+            "description": "Treyarch zombies wonder weapons and guns ported to Infinite Warfare.",
+            "files": [
+                {
+                    "name": "mod.ff",
+                    "size": 442344768,
+                    "hash": "62A69289",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r2/a1.bin"
+                    ]
+                },
+                {
+                    "name": "mod.sabl",
+                    "size": 9611136,
+                    "hash": "1847677E",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r2/a2.bin"
+                    ]
+                },
+                {
+                    "name": "mod.sabs",
+                    "size": 4096,
+                    "hash": "01BB18F1",
+                    "urls": [
+                        "https://github.com/Divity/ix-data/releases/download/r2/a3.bin"
+                    ]
+                }
+            ],
+            "image": "https://github.com/Divity/ix-data/releases/download/r2/p1.png"
+        }
+    ]
+}
