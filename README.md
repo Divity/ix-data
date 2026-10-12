@@ -9,16 +9,6 @@ The Workshop is a menu in the game. It reads `index.json` from this repository, 
 
 Every file is checked against the hash in `index.json` before it is installed. A file that does not match is deleted.
 
-## Using it
-
-Open the game console and run this once. The setting is saved.
-
-```
-workshop_url https://raw.githubusercontent.com/Divity/ix-data/main/index.json
-```
-
-Then open WORKSHOP from the main menu.
-
 ## Submitting
 
-Read [FAQ.md](FAQ.md).
+Read the [wiki](https://github.com/Divity/ix-data/wiki).
